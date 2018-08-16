@@ -16,6 +16,8 @@ You can find the latest Spark documentation, including a programming
 guide, on the [project web page](http://spark.apache.org/documentation.html).
 This README file only contains basic setup instructions.
 
+Link to API Documentation: <https://spark.apache.org/docs/latest/api/python/index.html>
+
 ## Building Spark
 
 Spark is built using [Apache Maven](http://maven.apache.org/).
